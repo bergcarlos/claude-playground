@@ -1,0 +1,12 @@
+{
+  "name": "carglass-voicebot-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Deutscher Voicebot für Werkstatttermine (Scheibenreparatur/-austausch) – Browser-Prototyp",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": { "node": ">=20" }
+}
